@@ -43,7 +43,7 @@ cabal install
 ## Usage
 
 _rosette_ requires your UWP codes be stored in a plaintext file. My personal
-convention is to put them in a '.sec' file, like the one above, which I named
+convention is to put them in a '.sec' file, like the one below, which I named
 `example.sec`:
 
 ```
